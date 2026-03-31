@@ -144,3 +144,7 @@ It recursively splits text into smaller units **only when required**, preserving
 - Preserves semantic structure (paragraph → sentence → word)
 - Maintains context
 - Ideal for LLM pipelines (RAG, embeddings)
+
+- Token ID:        same (if same token)
+- Token embedding: different (depends on context)
+- Chunk embedding: single vector representing all tokens

@@ -78,3 +78,38 @@
 - [ ] LangGraph
 - [ ] FastAPI
 - [ ] CrewAI
+
+## Useful resources
+
+### LLM / GenAI interview prep
+
+**Interview questions**
+1. [GenAI interview questions (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-interview-questions.pdf)
+
+**LLM fundamental topics**
+1. [LLM fundamentals (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/llm_fundamentals.pdf)
+2. [Essential terms — GenAI (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/essential-terms-genai.pdf)
+
+**GenAI project life cycle**
+1. [GenAI project lifecycle (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-project-lifecycle.pdf)
+
+**RAG systems**
+1. [Advanced RAG — decision flow chart (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/advance-rag-decision-flow-chart.pdf)
+2. [RAG reference topics (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/rag-reference-topics.pdf)
+3. [RAG with code — advanced system design & interview guide (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/rag-with-code-advance-system-design-interview-guide.pdf)
+
+**Prompt engineering**
+1. [Prompt engineering (notebook)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/prompt_engineering.ipynb)
+
+**AI agents**
+1. [AI patterns (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/ai-patterns.pdf)
+2. [Agentic AI — interview questions (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/agentic-ai-interview-questions.pdf)
+3. [ML reference guide (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/ml-reference-guide.pdf)
+
+**GenAI roadmap / code**
+1. [Engineers of AI — LLM interviews (category)](https://engineersofai.com/docs/category/llm-interviews)
+2. [Awesome LLM apps (GitHub)](https://github.com/Shubhamsaboo/awesome-llm-apps/)
+
+**ML interview**
+1. [ML reference guide (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/ml-reference-guide.pdf)
+2. [Activation functions cheatsheet (PDF)](https://github.com/genieincodebottle/generative-ai/blob/main/docs/activation-functions-cheatsheet.pdf)
